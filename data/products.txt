@@ -1,15 +1,100 @@
-Dell, $999.00, Dell laptops are known for their durability and performance, making them a popular choice for both personal and professional use.
-Lenovo, $899.00, Lenovo laptops offer a great balance of performance and price, with a variety of models suitable for different needs.
-HP, $799.00, HP laptops are versatile and reliable, with a range of options from budget-friendly to high-end models.
-Apple, $1299.00, Apple laptops are known for their sleek design and powerful performance, ideal for creative professionals.
-Asus, $699.00, Asus laptops provide excellent value for money, with a focus on gaming and high-performance computing.
-Dell Laptop, $999.00, Dell laptops are known for their durability and performance, making them a popular choice for both personal and professional use. They come with a variety of features including high-resolution displays, powerful processors, and long battery life, ensuring that users can work efficiently and effectively.
-Lenovo Laptop, $899.00, Lenovo laptops offer a great balance of performance and price, with a variety of models suitable for different needs. Whether you are a student, a professional, or a gamer, Lenovo has a laptop that will meet your requirements with features like robust build quality, excellent keyboards, and reliable customer support.
-HP Laptop, $799.00, HP laptops are versatile and reliable, with a range of options from budget-friendly to high-end models. They are equipped with the latest technology, including fast processors, ample storage, and high-quality graphics, making them ideal for both work and play.
-Apple Laptop, $1299.00, Apple laptops are known for their sleek design and powerful performance, ideal for creative professionals. They feature high-resolution Retina displays, fast SSD storage, and the macOS operating system, which is optimized for performance and ease of use.
-Asus Laptop, $699.00, Asus laptops provide excellent value for money, with a focus on gaming and high-performance computing. They come with powerful graphics cards, high-refresh-rate displays, and efficient cooling systems, making them perfect for gamers and power users.
-Samsung Smartphone, $999.00, Samsung smartphones are known for their cutting-edge technology and innovative features. They offer high-resolution displays, powerful processors, and advanced camera systems, making them ideal for photography, gaming, and productivity. Samsung's One UI provides a smooth and intuitive user experience, with regular updates and security patches.
-Apple iPhone, $1099.00, Apple iPhones are renowned for their premium build quality and seamless integration with the Apple ecosystem. They feature high-resolution Retina displays, powerful A-series processors, and advanced camera systems with features like Night mode and Deep Fusion. iPhones run on iOS, which is known for its smooth performance, security, and a vast selection of apps.
-Google Pixel, $799.00, Google Pixel smartphones offer a pure Android experience with regular updates and exclusive features. They come with high-quality cameras that excel in low-light conditions, fast processors, and high-resolution displays. The Pixel's integration with Google services makes it a great choice for users who rely on Google's ecosystem.
-OnePlus Smartphone, $699.00, OnePlus smartphones are known for their high performance and value for money. They feature fast processors, high-refresh-rate displays, and advanced camera systems. OnePlus's OxygenOS provides a clean and customizable user experience, with regular updates and optimizations.
-Sony Xperia, $899.00, Sony Xperia smartphones are known for their high-quality displays and advanced camera technology. They offer features like 4K HDR displays, powerful processors, and professional-grade camera systems. Sony's integration with its entertainment ecosystem makes Xperia phones a great choice for media consumption and photography.
+Lenovo Điện thoại, $405.00, Điện thoại thông minh với nhiều tính năng hiện đại và thiết kế đẹp mắt. Sản phẩm này có màn hình sắc nét, camera chất lượng cao và thời lượng pin lâu dài, phù hợp cho cả công việc và giải trí.
+Asus Máy chiếu, $1594.00, Máy chiếu với độ phân giải cao, phù hợp cho các buổi thuyết trình và giải trí. Sản phẩm này có khả năng trình chiếu rõ nét, màu sắc sống động và dễ dàng kết nối với các thiết bị khác.
+Asus Máy chơi game, $1951.00, Máy chơi game với đồ họa đẹp và nhiều trò chơi hấp dẫn. Sản phẩm này có khả năng chơi game mượt mà, đồ họa sắc nét và nhiều tính năng giải trí khác.
+Samsung Máy ảnh kỹ thuật số, $1376.00, Máy ảnh kỹ thuật số với khả năng chống nước, phù hợp cho các chuyến du lịch và hoạt động ngoài trời.
+Sony Máy chiếu, $1261.00, Máy chiếu với độ phân giải cao, phù hợp cho các buổi thuyết trình và giải trí. Sản phẩm này có khả năng trình chiếu rõ nét, màu sắc sống động và dễ dàng kết nối với các thiết bị khác.
+Dell Điện thoại, $1919.00, Điện thoại với màn hình lớn, camera kép và pin dung lượng cao, mang lại trải nghiệm tuyệt vời cho người dùng.
+Dell Điện thoại, $1275.00, Điện thoại thông minh với khả năng chống nước, bộ nhớ lớn và hiệu suất mạnh mẽ, đáp ứng mọi nhu cầu sử dụng.
+Sony Máy chơi game, $1893.00, Máy chơi game với đồ họa đẹp và nhiều trò chơi hấp dẫn. Sản phẩm này có khả năng chơi game mượt mà, đồ họa sắc nét và nhiều tính năng giải trí khác.
+Acer Máy nghe nhạc, $1781.00, Máy nghe nhạc với bộ nhớ lớn, lưu trữ được nhiều bài hát.
+Apple Máy chơi game, $471.00, Máy chơi game cầm tay với thiết kế nhỏ gọn, dễ dàng mang theo.
+HP Máy tính bảng, $897.00, Máy tính bảng với màn hình cảm ứng nhạy và nhiều ứng dụng hữu ích. Sản phẩm này có thiết kế mỏng nhẹ, dễ dàng mang theo và phù hợp cho cả công việc và giải trí.
+Nikon Điện thoại, $1965.00, Điện thoại thông minh với nhiều tính năng hiện đại và thiết kế đẹp mắt. Sản phẩm này có màn hình sắc nét, camera chất lượng cao và thời lượng pin lâu dài, phù hợp cho cả công việc và giải trí.
+Lenovo Máy ảnh, $1508.00, Máy ảnh compact với thiết kế nhỏ gọn, dễ dàng mang theo và chụp ảnh nhanh chóng.
+Dell Máy chiếu, $1454.00, Máy chiếu với độ phân giải cao, phù hợp cho các buổi thuyết trình và giải trí. Sản phẩm này có khả năng trình chiếu rõ nét, màu sắc sống động và dễ dàng kết nối với các thiết bị khác.
+Canon Máy tính, $357.00, Máy tính xách tay với hiệu suất cao và độ bền tốt, phù hợp cho cả công việc và giải trí. Sản phẩm này có bộ vi xử lý mạnh mẽ, dung lượng lưu trữ lớn và thiết kế mỏng nhẹ, dễ dàng mang theo.
+Acer Máy in, $590.00, Máy in màu với độ phân giải cao, phù hợp cho in ấn hình ảnh và tài liệu màu.
+Acer Máy tính, $1343.00, Máy tính xách tay với hiệu suất cao và độ bền tốt, phù hợp cho cả công việc và giải trí. Sản phẩm này có bộ vi xử lý mạnh mẽ, dung lượng lưu trữ lớn và thiết kế mỏng nhẹ, dễ dàng mang theo.
+Sony Máy in, $654.00, Máy in màu với độ phân giải cao, phù hợp cho in ấn hình ảnh và tài liệu màu.
+HP Máy quét, $1154.00, Máy quét ảnh với độ phân giải cao, phù hợp cho việc số hóa ảnh cũ.
+Dell Máy tính, $1746.00, Máy tính xách tay với hiệu suất cao và độ bền tốt, phù hợp cho cả công việc và giải trí. Sản phẩm này có bộ vi xử lý mạnh mẽ, dung lượng lưu trữ lớn và thiết kế mỏng nhẹ, dễ dàng mang theo.
+Samsung Máy chiếu, $603.00, Máy chiếu 4K với độ phân giải siêu cao, mang lại trải nghiệm xem phim tuyệt vời.
+Acer Máy tính, $1442.00, Máy tính xách tay với hiệu suất cao và độ bền tốt, phù hợp cho cả công việc và giải trí. Sản phẩm này có bộ vi xử lý mạnh mẽ, dung lượng lưu trữ lớn và thiết kế mỏng nhẹ, dễ dàng mang theo.
+Nikon Máy tính bảng, $362.00, Máy tính bảng với màn hình lớn và pin lâu, phù hợp cho việc xem phim và chơi game.
+Nikon Máy chơi game, $421.00, Máy chơi game với đồ họa đẹp và nhiều trò chơi hấp dẫn. Sản phẩm này có khả năng chơi game mượt mà, đồ họa sắc nét và nhiều tính năng giải trí khác.
+Sony Máy chiếu, $357.00, Máy chiếu mini với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+Dell Máy chiếu, $1332.00, Máy chiếu 4K với độ phân giải siêu cao, mang lại trải nghiệm xem phim tuyệt vời.
+Apple Máy ảnh, $389.00, Máy ảnh DSLR với ống kính đa dạng, phù hợp cho nhiếp ảnh gia chuyên nghiệp.
+Sony Máy tính, $335.00, Máy tính xách tay với hiệu suất cao và độ bền tốt, phù hợp cho cả công việc và giải trí. Sản phẩm này có bộ vi xử lý mạnh mẽ, dung lượng lưu trữ lớn và thiết kế mỏng nhẹ, dễ dàng mang theo.
+Dell Máy ảnh kỹ thuật số, $1436.00, Máy ảnh kỹ thuật số với ống kính zoom xa, phù hợp cho việc chụp ảnh từ xa.
+Sony Máy chơi game, $1523.00, Máy chơi game console với nhiều trò chơi độc quyền và đồ họa ấn tượng.
+Sony Máy in, $548.00, Máy in chất lượng cao, in ấn nhanh chóng và tiết kiệm mực. Sản phẩm này có khả năng in ấn đa dạng, từ tài liệu văn phòng đến hình ảnh chất lượng cao, đáp ứng mọi nhu cầu in ấn của bạn.
+Lenovo Máy tính bảng, $1101.00, Máy tính bảng với màn hình cảm ứng nhạy và nhiều ứng dụng hữu ích. Sản phẩm này có thiết kế mỏng nhẹ, dễ dàng mang theo và phù hợp cho cả công việc và giải trí.
+Dell Máy nghe nhạc, $752.00, Máy nghe nhạc với âm thanh chất lượng cao và thiết kế nhỏ gọn. Sản phẩm này có khả năng phát nhạc liên tục trong nhiều giờ, phù hợp cho những người yêu thích âm nhạc.
+Asus Máy chiếu, $172.00, Máy chiếu mini với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+Acer Điện thoại, $1602.00, Điện thoại thông minh với nhiều tính năng hiện đại và thiết kế đẹp mắt. Sản phẩm này có màn hình sắc nét, camera chất lượng cao và thời lượng pin lâu dài, phù hợp cho cả công việc và giải trí.
+Lenovo Máy ảnh kỹ thuật số, $833.00, Máy ảnh kỹ thuật số với khả năng chống nước, phù hợp cho các chuyến du lịch và hoạt động ngoài trời.
+Lenovo Máy nghe nhạc, $1155.00, Máy nghe nhạc với khả năng kết nối Bluetooth, dễ dàng kết nối với tai nghe không dây.
+Asus Máy tính bảng, $1937.00, Máy tính bảng với màn hình lớn và pin lâu, phù hợp cho việc xem phim và chơi game.
+Sony Máy nghe nhạc, $698.00, Máy nghe nhạc với khả năng kết nối Bluetooth, dễ dàng kết nối với tai nghe không dây.
+Acer Máy chơi game, $1589.00, Máy chơi game với đồ họa đẹp và nhiều trò chơi hấp dẫn. Sản phẩm này có khả năng chơi game mượt mà, đồ họa sắc nét và nhiều tính năng giải trí khác.
+Sony Máy tính bảng, $1998.00, Máy tính bảng với màn hình lớn và pin lâu, phù hợp cho việc xem phim và chơi game.
+Nikon Máy chiếu, $1896.00, Máy chiếu 4K với độ phân giải siêu cao, mang lại trải nghiệm xem phim tuyệt vời.
+Lenovo Máy quét, $1042.00, Máy quét di động với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+Asus Máy ảnh kỹ thuật số, $1058.00, Máy ảnh kỹ thuật số với khả năng chống nước, phù hợp cho các chuyến du lịch và hoạt động ngoài trời.
+Dell Máy in, $1720.00, Máy in màu với độ phân giải cao, phù hợp cho in ấn hình ảnh và tài liệu màu.
+Samsung Máy ảnh kỹ thuật số, $1374.00, Máy ảnh kỹ thuật số với ống kính zoom xa, phù hợp cho việc chụp ảnh từ xa.
+Acer Máy chơi game, $562.00, Máy chơi game console với nhiều trò chơi độc quyền và đồ họa ấn tượng.
+Sony Điện thoại, $252.00, Điện thoại thông minh với khả năng chống nước, bộ nhớ lớn và hiệu suất mạnh mẽ, đáp ứng mọi nhu cầu sử dụng.
+Lenovo Máy chơi game, $825.00, Máy chơi game cầm tay với thiết kế nhỏ gọn, dễ dàng mang theo.
+Sony Máy chiếu, $335.00, Máy chiếu với độ phân giải cao, phù hợp cho các buổi thuyết trình và giải trí. Sản phẩm này có khả năng trình chiếu rõ nét, màu sắc sống động và dễ dàng kết nối với các thiết bị khác.
+Nikon Máy in, $923.00, Máy in màu với độ phân giải cao, phù hợp cho in ấn hình ảnh và tài liệu màu.
+HP Máy chơi game, $1236.00, Máy chơi game với đồ họa đẹp và nhiều trò chơi hấp dẫn. Sản phẩm này có khả năng chơi game mượt mà, đồ họa sắc nét và nhiều tính năng giải trí khác.
+Canon Máy nghe nhạc, $361.00, Máy nghe nhạc với khả năng kết nối Bluetooth, dễ dàng kết nối với tai nghe không dây.
+Nikon Máy ảnh kỹ thuật số, $1206.00, Máy ảnh kỹ thuật số với nhiều tính năng chụp ảnh chuyên nghiệp. Sản phẩm này có khả năng chụp ảnh sắc nét, quay video chất lượng cao và nhiều chế độ chụp ảnh đa dạng.
+Canon Máy quét, $938.00, Máy quét ảnh với độ phân giải cao, phù hợp cho việc số hóa ảnh cũ.
+Acer Máy ảnh, $581.00, Máy ảnh compact với thiết kế nhỏ gọn, dễ dàng mang theo và chụp ảnh nhanh chóng.
+Lenovo Máy nghe nhạc, $283.00, Máy nghe nhạc với khả năng kết nối Bluetooth, dễ dàng kết nối với tai nghe không dây.
+Samsung Máy in, $401.00, Máy in chất lượng cao, in ấn nhanh chóng và tiết kiệm mực. Sản phẩm này có khả năng in ấn đa dạng, từ tài liệu văn phòng đến hình ảnh chất lượng cao, đáp ứng mọi nhu cầu in ấn của bạn.
+Lenovo Máy tính bảng, $1463.00, Máy tính bảng với màn hình lớn và pin lâu, phù hợp cho việc xem phim và chơi game.
+Canon Máy chiếu, $1874.00, Máy chiếu mini với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+Dell Máy in, $1393.00, Máy in màu với độ phân giải cao, phù hợp cho in ấn hình ảnh và tài liệu màu.
+HP Máy quét, $667.00, Máy quét ảnh với độ phân giải cao, phù hợp cho việc số hóa ảnh cũ.
+HP Máy chơi game, $213.00, Máy chơi game cầm tay với thiết kế nhỏ gọn, dễ dàng mang theo.
+Apple Máy ảnh, $526.00, Máy ảnh kỹ thuật số với độ phân giải cao và nhiều chế độ chụp ảnh. Sản phẩm này có khả năng chụp ảnh sắc nét, quay video chất lượng cao và nhiều tính năng chỉnh sửa ảnh chuyên nghiệp.
+Acer Máy ảnh, $1583.00, Máy ảnh kỹ thuật số với độ phân giải cao và nhiều chế độ chụp ảnh. Sản phẩm này có khả năng chụp ảnh sắc nét, quay video chất lượng cao và nhiều tính năng chỉnh sửa ảnh chuyên nghiệp.
+Canon Máy tính, $493.00, Máy tính xách tay với màn hình cảm ứng, pin lâu và thiết kế thời trang, phù hợp cho người dùng di động.
+Apple Máy quét, $276.00, Máy quét di động với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+HP Máy tính bảng, $1335.00, Máy tính bảng với màn hình lớn và pin lâu, phù hợp cho việc xem phim và chơi game.
+Lenovo Điện thoại, $800.00, Điện thoại thông minh với nhiều tính năng hiện đại và thiết kế đẹp mắt. Sản phẩm này có màn hình sắc nét, camera chất lượng cao và thời lượng pin lâu dài, phù hợp cho cả công việc và giải trí.
+Canon Máy tính bảng, $1405.00, Máy tính bảng với màn hình lớn và pin lâu, phù hợp cho việc xem phim và chơi game.
+Apple Máy ảnh kỹ thuật số, $618.00, Máy ảnh kỹ thuật số với nhiều tính năng chụp ảnh chuyên nghiệp. Sản phẩm này có khả năng chụp ảnh sắc nét, quay video chất lượng cao và nhiều chế độ chụp ảnh đa dạng.
+HP Máy in, $681.00, Máy in chất lượng cao, in ấn nhanh chóng và tiết kiệm mực. Sản phẩm này có khả năng in ấn đa dạng, từ tài liệu văn phòng đến hình ảnh chất lượng cao, đáp ứng mọi nhu cầu in ấn của bạn.
+Dell Máy in, $543.00, Máy in laser với tốc độ in nhanh và chi phí vận hành thấp, phù hợp cho văn phòng.
+Samsung Máy chơi game, $948.00, Máy chơi game cầm tay với thiết kế nhỏ gọn, dễ dàng mang theo.
+Canon Máy nghe nhạc, $1275.00, Máy nghe nhạc với âm thanh chất lượng cao và thiết kế nhỏ gọn. Sản phẩm này có khả năng phát nhạc liên tục trong nhiều giờ, phù hợp cho những người yêu thích âm nhạc.
+Sony Máy ảnh kỹ thuật số, $1408.00, Máy ảnh kỹ thuật số với khả năng chống nước, phù hợp cho các chuyến du lịch và hoạt động ngoài trời.
+Samsung Máy nghe nhạc, $146.00, Máy nghe nhạc với bộ nhớ lớn, lưu trữ được nhiều bài hát.
+Canon Máy in, $901.00, Máy in màu với độ phân giải cao, phù hợp cho in ấn hình ảnh và tài liệu màu.
+Dell Máy in, $1896.00, Máy in chất lượng cao, in ấn nhanh chóng và tiết kiệm mực. Sản phẩm này có khả năng in ấn đa dạng, từ tài liệu văn phòng đến hình ảnh chất lượng cao, đáp ứng mọi nhu cầu in ấn của bạn.
+Sony Máy nghe nhạc, $356.00, Máy nghe nhạc với khả năng kết nối Bluetooth, dễ dàng kết nối với tai nghe không dây.
+Sony Máy tính, $1176.00, Máy tính xách tay với màn hình cảm ứng, pin lâu và thiết kế thời trang, phù hợp cho người dùng di động.
+Dell Điện thoại, $1820.00, Điện thoại thông minh với khả năng chống nước, bộ nhớ lớn và hiệu suất mạnh mẽ, đáp ứng mọi nhu cầu sử dụng.
+Asus Máy quét, $1893.00, Máy quét di động với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+Acer Máy tính bảng, $262.00, Máy tính bảng với màn hình cảm ứng nhạy và nhiều ứng dụng hữu ích. Sản phẩm này có thiết kế mỏng nhẹ, dễ dàng mang theo và phù hợp cho cả công việc và giải trí.
+Asus Máy in, $569.00, Máy in laser với tốc độ in nhanh và chi phí vận hành thấp, phù hợp cho văn phòng.
+HP Máy chiếu, $543.00, Máy chiếu mini với thiết kế nhỏ gọn, dễ dàng mang theo và sử dụng.
+HP Máy ảnh, $680.00, Máy ảnh kỹ thuật số với độ phân giải cao và nhiều chế độ chụp ảnh. Sản phẩm này có khả năng chụp ảnh sắc nét, quay video chất lượng cao và nhiều tính năng chỉnh sửa ảnh chuyên nghiệp.
+Samsung Máy ảnh kỹ thuật số, $456.00, Máy ảnh kỹ thuật số với ống kính zoom xa, phù hợp cho việc chụp ảnh từ xa.
+Samsung Máy tính, $1965.00, Máy tính xách tay với màn hình cảm ứng, pin lâu và thiết kế thời trang, phù hợp cho người dùng di động.
+Sony Máy ảnh kỹ thuật số, $338.00, Máy ảnh kỹ thuật số với khả năng chống nước, phù hợp cho các chuyến du lịch và hoạt động ngoài trời.
+Apple Điện thoại, $774.00, Điện thoại thông minh với nhiều tính năng hiện đại và thiết kế đẹp mắt. Sản phẩm này có màn hình sắc nét, camera chất lượng cao và thời lượng pin lâu dài, phù hợp cho cả công việc và giải trí.
+Asus Máy chơi game, $328.00, Máy chơi game console với nhiều trò chơi độc quyền và đồ họa ấn tượng.
+Acer Máy nghe nhạc, $822.00, Máy nghe nhạc với âm thanh chất lượng cao và thiết kế nhỏ gọn. Sản phẩm này có khả năng phát nhạc liên tục trong nhiều giờ, phù hợp cho những người yêu thích âm nhạc.
+Dell Điện thoại, $739.00, Điện thoại thông minh với khả năng chống nước, bộ nhớ lớn và hiệu suất mạnh mẽ, đáp ứng mọi nhu cầu sử dụng.
+Nikon Máy tính, $581.00, Máy tính xách tay với màn hình cảm ứng, pin lâu và thiết kế thời trang, phù hợp cho người dùng di động.
+Nikon Máy nghe nhạc, $469.00, Máy nghe nhạc với âm thanh chất lượng cao và thiết kế nhỏ gọn. Sản phẩm này có khả năng phát nhạc liên tục trong nhiều giờ, phù hợp cho những người yêu thích âm nhạc.
+Apple Máy tính bảng, $1145.00, Máy tính bảng với bút cảm ứng, phù hợp cho việc vẽ và ghi chú.
+Lenovo Máy ảnh, $898.00, Máy ảnh compact với thiết kế nhỏ gọn, dễ dàng mang theo và chụp ảnh nhanh chóng.
+Samsung Máy ảnh kỹ thuật số, $1561.00, Máy ảnh kỹ thuật số với ống kính zoom xa, phù hợp cho việc chụp ảnh từ xa.
+Lenovo Máy ảnh, $634.00, Máy ảnh DSLR với ống kính đa dạng, phù hợp cho nhiếp ảnh gia chuyên nghiệp.
