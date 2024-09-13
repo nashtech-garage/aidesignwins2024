@@ -7,3 +7,5 @@ python-dotenv
 pillow
 promptflow-evals
 ipykernel
+matplotlib
+scikit-learn
