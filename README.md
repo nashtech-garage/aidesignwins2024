@@ -1,31 +1,28 @@
-# Azure AI Search Demos
+# AI Design Wins 2024 Demos
 
-This repository contains many notebooks that explain how Azure AI Search works, including several showcasing how vector search works.
+This repository contains notebooks that explain how Azure AI Search works, RAG with Azure Open AI, building Agent with Azure Open AI Function calling.
 
+## Pre-requisites
+The following Azure resources need to be provisioned before running the demo
+1. Azure AI Search
+2. Azure Open AI service
 ## Environment setup
 
-1. Run `azd up` on [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo/) with GPT-4-vision enabled. This will create the necessary resources for the Azure OpenAI, Azure AI Search services, and the Computer Vision service.
 
-2. Create a .env with these variables, with the values taken from `.azure/ENV-NAME/.env` in the azure-search-openai-demo repository.
-
-    ```shell
-    AZURE_OPENAI_SERVICE=YOUR-SERVICE-NAME
-    AZURE_OPENAI_DEPLOYMENT_NAME=YOUR-OPENAI-DEPLOYMENT-NAME
-    AZURE_OPENAI_ADA_DEPLOYMENT=YOUR-EMBED-DEPLOYMENT-NAME
-    AZURE_SEARCH_SERVICE=YOUR-SEARCH-SERVICE-NAME
-    AZURE_COMPUTERVISION_SERVICE=YOUR-COMPUTERVISION-SERVICE-NAME
-    AZURE_TENANT_ID=YOUR-TENANT-ID
-    ```
-
-3. Login to your Azure account using the Azure CLI. Specify `--tenant-id` if you deployed that repo to a non-default tenant.
+1. Create a .env with these variables, with the values taken from `.env.sample`.
 
     ```shell
-    azd auth login
+    AZURE_OPENAI_SERVICE="SERVICE-NAME"
+    AZURE_OPENAI_API_KEY=AZURE_OPENAI_API_KEY
+    AZURE_OPENAI_DEPLOYMENT_NAME=DEPLOYMENT-NAME
+    AZURE_OPENAI_EMBEDDING_DEPLOYMENT=AZURE_OPENAI_EMBEDDING_DEPLOYMENT
+    AZURE_SEARCH_SERVICE=SEARCH-SERVICE-NAME
+    AZURE_SEARCH_SERVICE_KEY=AZURE_SEARCH_SERVICE_KEY
     ```
 
-4. Create a Python virtual environment or open the project in a container.
+2. Create a Python virtual environment or open the project in a container. (Skip if using CodeSpace)
 
-5. Install the requirements:
+3. Install the requirements (Skip if using CodeSpace):
 
     ```shell
     pip install -r requirements.txt
@@ -35,11 +32,8 @@ This repository contains many notebooks that explain how Azure AI Search works, 
 
 These are the available notebooks, in suggested order:
 
-* [Vector Embeddings Notebook](./vector_embeddings.ipynb)
-* [Azure AI Search Notebook](./azure_ai_search.ipynb)
-* [Image Search Notebook](./image_search.ipynb)
-* [Azure AI Search Relevance Notebook](./search_relevance.ipynb)
-* [RAG with Azure AI Search](./rag.ipynb)
-* [RAG Evaluation](./rag_eval.ipynb)
+* [Vector Embeddings Notebook](./notebooks/01_vector_embeddings.ipynb)
+* [Azure AI Search Notebook](./notebooks/02_azure_ai_search.ipynb)
+* [RAG with Azure AI Search](./notebooks/03_rag.ipynb)
+* [Build Agent with Function calling](./notebooks/04_build_agent.ipynb)
 
-You can find video recordings going through the notebooks [here](https://github.com/microsoft/aitour-rag-with-ai-search/tree/main/session-delivery-resources#video-recordings).
