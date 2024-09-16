@@ -1,0 +1,50 @@
+# Handle conversation with context-awareness
+from time import sleep
+def generate_query(messages, question):
+    clone_messages = list(messages)[1:]
+    clone_messages.append({"role": "user", 
+                           "content": f"Đây là câu hỏi của user: {question}. Dựa trên lịch sử và câu hỏi hiện tại, tạo query tối đa 10 từ để tìm kiếm. Đừng đưa ra gợi ý ngoài câu hỏi."})
+    response = openai_client.chat.completions.create(
+        model=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
+        temperature=0,
+        messages=clone_messages
+    )
+
+    return response.choices[0].message.content
+
+SYSTEM_MESSAGE = """
+Assistant helps answer customer's questions about the available products. Be brief in your answers.
+Answer ONLY with the facts listed in the list of sources below.
+If there isn't enough information below, say you don't know. Do not generate answers that don't use the sources below.
+Each source has a name followed by colon and the actual information, include the source name for each fact you use.
+Use square brackets to reference the source, for example [info1.txt].
+"""
+
+
+messages = [{"role": "system", "content": SYSTEM_MESSAGE}]
+
+while(True):
+    sleep(1)
+    question = input()
+    if question == "exit":
+        break
+    
+    print("Human > " + question)
+    query = generate_query(messages=messages, question=question)
+    print(f"\tGenerated query: {query}")
+
+    sources = search(query)
+    
+    USER_MESSAGE = question + "\nSources: " + sources
+    messages.append( {"role": "user", "content": USER_MESSAGE})
+    
+    # Now we can use the matches to generate a response
+    response = openai_client.chat.completions.create(
+        model=os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
+        temperature=0,
+        messages=messages
+    )
+
+    answer = response.choices[0].message.content
+    messages.append({"role": "assistant", "content": answer})
+    print("Bot > " + answer)
