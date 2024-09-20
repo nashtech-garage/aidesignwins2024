@@ -1,0 +1,11 @@
+openai
+numpy
+pandas
+azure-identity
+azure-search-documents
+python-dotenv
+pillow
+promptflow-evals
+ipykernel
+matplotlib
+scikit-learn
